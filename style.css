@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+}
+body {
+  overflow: hidden;
+  height: inherit;
+}
+.box-container {
+  /* height: 100; */
+  /* width: 100vw; */
+  background-color: #171717;
+  position: relative;
+}
